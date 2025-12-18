@@ -40,3 +40,5 @@ En FileZilla:
 - Usa **SFTP** si tu servidor lo permite: es más seguro.
 - Puedes configurar **límites de velocidad** para no saturar tu red.
 - FileZilla guarda tus conexiones en el **Gestor de sitios**, ideal para uso frecuente.
+
+> Última Revisión: Jueves, 18 de Diciembre de 2025
